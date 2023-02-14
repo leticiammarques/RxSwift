@@ -17,10 +17,6 @@ Apps construídos para o fortalecimento de conhecimentos de RxSwift
 
 <br>
 
-<p align="center">
-  <img alt="calendario-copa" src=".github/desktop.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
